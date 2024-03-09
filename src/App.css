@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+
+input {
+  margin-bottom: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.beer-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.beer-card {
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  width: 200px;
+ 
+}
+
+img {
+  width: 80px;
+  height: 250px;
+  border-radius: 5px;
+}
